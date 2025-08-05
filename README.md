@@ -35,6 +35,7 @@ python po po po.py
 Aviso legal
 Esta herramienta es solo para auditoría y pruebas de seguridad en redes propias o con permiso expreso. El uso no autorizado es ilegal.
 
+Vegetto es la versión mejorada :)
 
 MIT License
 
