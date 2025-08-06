@@ -37,6 +37,7 @@ Esta herramienta es solo para auditoría y pruebas de seguridad en redes propias
 
 Vegetto es la versión mejorada :)
 
+Bardock es la versión aún más mejorada (Todo lo que tiene vegetto + John the ripper)
 MIT License
 
 Copyright (c) 2025 [GengarGhostGo]
